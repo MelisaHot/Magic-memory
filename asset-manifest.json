@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Magic-memory/static/css/main.4fc78091.chunk.css",
-    "main.js": "/Magic-memory/static/js/main.0f4757ec.chunk.js",
-    "main.js.map": "/Magic-memory/static/js/main.0f4757ec.chunk.js.map",
-    "runtime-main.js": "/Magic-memory/static/js/runtime-main.a2986d05.js",
-    "runtime-main.js.map": "/Magic-memory/static/js/runtime-main.a2986d05.js.map",
-    "static/js/2.34531e5d.chunk.js": "/Magic-memory/static/js/2.34531e5d.chunk.js",
-    "static/js/2.34531e5d.chunk.js.map": "/Magic-memory/static/js/2.34531e5d.chunk.js.map",
+    "main.js": "/Magic-memory/static/js/main.ed56efba.chunk.js",
+    "main.js.map": "/Magic-memory/static/js/main.ed56efba.chunk.js.map",
+    "runtime-main.js": "/Magic-memory/static/js/runtime-main.9bcbe517.js",
+    "runtime-main.js.map": "/Magic-memory/static/js/runtime-main.9bcbe517.js.map",
+    "static/js/2.bbdc0658.chunk.js": "/Magic-memory/static/js/2.bbdc0658.chunk.js",
+    "static/js/2.bbdc0658.chunk.js.map": "/Magic-memory/static/js/2.bbdc0658.chunk.js.map",
     "index.html": "/Magic-memory/index.html",
     "static/css/main.4fc78091.chunk.css.map": "/Magic-memory/static/css/main.4fc78091.chunk.css.map",
-    "static/js/2.34531e5d.chunk.js.LICENSE.txt": "/Magic-memory/static/js/2.34531e5d.chunk.js.LICENSE.txt"
+    "static/js/2.bbdc0658.chunk.js.LICENSE.txt": "/Magic-memory/static/js/2.bbdc0658.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2986d05.js",
-    "static/js/2.34531e5d.chunk.js",
+    "static/js/runtime-main.9bcbe517.js",
+    "static/js/2.bbdc0658.chunk.js",
     "static/css/main.4fc78091.chunk.css",
-    "static/js/main.0f4757ec.chunk.js"
+    "static/js/main.ed56efba.chunk.js"
   ]
 }
